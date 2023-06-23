@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: ""
 ---
 
 I'm a third-year undergraduate at Yale studying computer science and philosophy. I'm particularly interested in the ethical implications of 
