@@ -1,6 +1,6 @@
 title: "Sartaj Rajpal"
 author: "Sartaj Rajpal"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Yale"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:sartajsinghrajpal@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/sartajrajpal"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/sartaj_rajpal"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
